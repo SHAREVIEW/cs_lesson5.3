@@ -18,6 +18,16 @@ namespace cs_lesson5._3
             {
                 Console.WriteLine(  friendNames[i]);
             }
+
+            /*
+              foreach (string friendName in friendNames)
+              {
+              Console.Writeline(friendName);
+              }         
+            */ 
+             
+    
+             
             Console.ReadKey();
 
         }
